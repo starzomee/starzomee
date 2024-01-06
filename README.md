@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @starzomee
+- 👋 Hi, I’m @Muhammad Shayan Umar
 - 👀 I’m studying BS Software Engineering.
 - 🌱 I work  a data Analyst and am also  power bi expert as welll furthermore i'm working on machine learning and deep learning 
 - 💞️ I’m looking to collaborate on building the midset of young people like me to adapt to the new technologies.
